@@ -1,0 +1,41 @@
+﻿@model MvcRadoreOrnek.Models.Kitap
+
+@{
+    ViewData["Title"] = "KitapOlustur";
+}
+
+<h1>KitapOlustur</h1>
+
+<h4>Kitap</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="KitapOlustur">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label class="control-label">Kitap Adı</label>
+                <input asp-for="kitapAdi" class="form-control" />
+                <span asp-validation-for="kitapAdi" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Fiyat</label>
+                <input asp-for="fiyat" class="form-control" />
+                <span asp-validation-for="fiyat" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Sayfa Sayısı</label>
+                <input asp-for="sayfaSayisi" class="form-control" />
+                <span asp-validation-for="sayfaSayisi" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group">
+                <input type="submit" value="Ekle" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

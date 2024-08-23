@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\merve\\Desktop\\RadoreBootcamp\\Api\\MvcRadoreOrnek\\MvcRadoreOrnek\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7559263-0998-47CE-947C-1262B5EDD72F}|MvcRadoreOrnek\\MvcRadoreOrnek.csproj|c:\\users\\merve\\desktop\\radorebootcamp\\api\\mvcradoreornek\\mvcradoreornek\\mvcradoreornek\\views\\kitap\\kitapolustur.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7559263-0998-47CE-947C-1262B5EDD72F}|MvcRadoreOrnek\\MvcRadoreOrnek.csproj|solutionrelative:mvcradoreornek\\views\\kitap\\kitapolustur.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7559263-0998-47CE-947C-1262B5EDD72F}|MvcRadoreOrnek\\MvcRadoreOrnek.csproj|c:\\users\\merve\\desktop\\radorebootcamp\\api\\mvcradoreornek\\mvcradoreornek\\mvcradoreornek\\views\\kitap\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7559263-0998-47CE-947C-1262B5EDD72F}|MvcRadoreOrnek\\MvcRadoreOrnek.csproj|solutionrelative:mvcradoreornek\\views\\kitap\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7559263-0998-47CE-947C-1262B5EDD72F}|MvcRadoreOrnek\\MvcRadoreOrnek.csproj|c:\\users\\merve\\desktop\\radorebootcamp\\api\\mvcradoreornek\\mvcradoreornek\\mvcradoreornek\\controllers\\kitapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7559263-0998-47CE-947C-1262B5EDD72F}|MvcRadoreOrnek\\MvcRadoreOrnek.csproj|solutionrelative:mvcradoreornek\\controllers\\kitapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7559263-0998-47CE-947C-1262B5EDD72F}|MvcRadoreOrnek\\MvcRadoreOrnek.csproj|c:\\users\\merve\\desktop\\radorebootcamp\\api\\mvcradoreornek\\mvcradoreornek\\mvcradoreornek\\models\\kitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7559263-0998-47CE-947C-1262B5EDD72F}|MvcRadoreOrnek\\MvcRadoreOrnek.csproj|solutionrelative:mvcradoreornek\\models\\kitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7559263-0998-47CE-947C-1262B5EDD72F}|MvcRadoreOrnek\\MvcRadoreOrnek.csproj|c:\\users\\merve\\desktop\\radorebootcamp\\api\\mvcradoreornek\\mvcradoreornek\\mvcradoreornek\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A7559263-0998-47CE-947C-1262B5EDD72F}|MvcRadoreOrnek\\MvcRadoreOrnek.csproj|solutionrelative:mvcradoreornek\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\merve\\Desktop\\RadoreBootcamp\\Api\\MvcRadoreOrnek\\MvcRadoreOrnek\\MvcRadoreOrnek\\Views\\Kitap\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcRadoreOrnek\\Views\\Kitap\\Index.cshtml",
+              "ToolTip": "C:\\Users\\merve\\Desktop\\RadoreBootcamp\\Api\\MvcRadoreOrnek\\MvcRadoreOrnek\\MvcRadoreOrnek\\Views\\Kitap\\Index.cshtml",
+              "RelativeToolTip": "MvcRadoreOrnek\\Views\\Kitap\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T12:52:42.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KitapOlustur.cshtml",
+              "DocumentMoniker": "C:\\Users\\merve\\Desktop\\RadoreBootcamp\\Api\\MvcRadoreOrnek\\MvcRadoreOrnek\\MvcRadoreOrnek\\Views\\Kitap\\KitapOlustur.cshtml",
+              "RelativeDocumentMoniker": "MvcRadoreOrnek\\Views\\Kitap\\KitapOlustur.cshtml",
+              "ToolTip": "C:\\Users\\merve\\Desktop\\RadoreBootcamp\\Api\\MvcRadoreOrnek\\MvcRadoreOrnek\\MvcRadoreOrnek\\Views\\Kitap\\KitapOlustur.cshtml",
+              "RelativeToolTip": "MvcRadoreOrnek\\Views\\Kitap\\KitapOlustur.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T11:21:23.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Kitap.cs",
+              "DocumentMoniker": "C:\\Users\\merve\\Desktop\\RadoreBootcamp\\Api\\MvcRadoreOrnek\\MvcRadoreOrnek\\MvcRadoreOrnek\\Models\\Kitap.cs",
+              "RelativeDocumentMoniker": "MvcRadoreOrnek\\Models\\Kitap.cs",
+              "ToolTip": "C:\\Users\\merve\\Desktop\\RadoreBootcamp\\Api\\MvcRadoreOrnek\\MvcRadoreOrnek\\MvcRadoreOrnek\\Models\\Kitap.cs",
+              "RelativeToolTip": "MvcRadoreOrnek\\Models\\Kitap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T10:59:39.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KitapController.cs",
+              "DocumentMoniker": "C:\\Users\\merve\\Desktop\\RadoreBootcamp\\Api\\MvcRadoreOrnek\\MvcRadoreOrnek\\MvcRadoreOrnek\\Controllers\\KitapController.cs",
+              "RelativeDocumentMoniker": "MvcRadoreOrnek\\Controllers\\KitapController.cs",
+              "ToolTip": "C:\\Users\\merve\\Desktop\\RadoreBootcamp\\Api\\MvcRadoreOrnek\\MvcRadoreOrnek\\MvcRadoreOrnek\\Controllers\\KitapController.cs",
+              "RelativeToolTip": "MvcRadoreOrnek\\Controllers\\KitapController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T22:58:14.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\merve\\Desktop\\RadoreBootcamp\\Api\\MvcRadoreOrnek\\MvcRadoreOrnek\\MvcRadoreOrnek\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MvcRadoreOrnek\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\merve\\Desktop\\RadoreBootcamp\\Api\\MvcRadoreOrnek\\MvcRadoreOrnek\\MvcRadoreOrnek\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MvcRadoreOrnek\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-21T22:50:47.83Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

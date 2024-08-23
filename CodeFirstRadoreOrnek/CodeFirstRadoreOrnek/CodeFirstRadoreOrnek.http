@@ -1,0 +1,6 @@
+@CodeFirstRadoreOrnek_HostAddress = http://localhost:5181
+
+GET {{CodeFirstRadoreOrnek_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

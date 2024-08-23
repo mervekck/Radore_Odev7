@@ -1,0 +1,61 @@
+﻿@model IEnumerable<MvcRadoreOrnek.Models.Kitap>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Kitap Listesi </h1>
+
+<p>
+    <a asp-action="KitapOlustur">Yeni Kitap Ekle</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                Kitap Adı
+            </th>
+            <th>
+                Fiyat
+            </th>
+            <th>
+                Sayfa Sayısı
+            </th>
+            <th>İşlemler</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.kitapAdi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.fiyat)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.sayfaSayisi)
+            </td>
+            <td>
+                    <a href="@Url.Action("KitapDetay", new { id = item.Id })" class="btn btn-info">Detay</a>
+                    <a href="@Url.Action("KitapGuncelle", new { id = item.Id })" class="btn btn-warning">Güncelle</a>
+                    <a href="#" class="btn btn-danger" onclick="return confirmDelete('@Url.Action("KitapSil", new { id = item.Id })')">Sil</a>
+                </td>
+        </tr>
+}
+    </tbody>
+</table>
+<script>
+    function confirmDelete(url) {
+        if (confirm("Bu kitabı silmek istediğinize emin misiniz?")) {
+            window.location.href = url;
+        }
+        return false;
+    }
+</script>

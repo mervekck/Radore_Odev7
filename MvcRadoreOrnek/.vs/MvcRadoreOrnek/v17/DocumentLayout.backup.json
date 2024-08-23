@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\MvcRadoreOrnek\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7559263-0998-47CE-947C-1262B5EDD72F}|MvcRadoreOrnek\\MvcRadoreOrnek.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\mvcradoreornek\\mvcradoreornek\\controllers\\kitapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7559263-0998-47CE-947C-1262B5EDD72F}|MvcRadoreOrnek\\MvcRadoreOrnek.csproj|solutionrelative:mvcradoreornek\\controllers\\kitapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7559263-0998-47CE-947C-1262B5EDD72F}|MvcRadoreOrnek\\MvcRadoreOrnek.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\mvcradoreornek\\mvcradoreornek\\views\\kitap\\kitapolustur.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7559263-0998-47CE-947C-1262B5EDD72F}|MvcRadoreOrnek\\MvcRadoreOrnek.csproj|solutionrelative:mvcradoreornek\\views\\kitap\\kitapolustur.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7559263-0998-47CE-947C-1262B5EDD72F}|MvcRadoreOrnek\\MvcRadoreOrnek.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\mvcradoreornek\\mvcradoreornek\\views\\kitap\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7559263-0998-47CE-947C-1262B5EDD72F}|MvcRadoreOrnek\\MvcRadoreOrnek.csproj|solutionrelative:mvcradoreornek\\views\\kitap\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7559263-0998-47CE-947C-1262B5EDD72F}|MvcRadoreOrnek\\MvcRadoreOrnek.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\mvcradoreornek\\mvcradoreornek\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7559263-0998-47CE-947C-1262B5EDD72F}|MvcRadoreOrnek\\MvcRadoreOrnek.csproj|solutionrelative:mvcradoreornek\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7559263-0998-47CE-947C-1262B5EDD72F}|MvcRadoreOrnek\\MvcRadoreOrnek.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\mvcradoreornek\\mvcradoreornek\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7559263-0998-47CE-947C-1262B5EDD72F}|MvcRadoreOrnek\\MvcRadoreOrnek.csproj|solutionrelative:mvcradoreornek\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7559263-0998-47CE-947C-1262B5EDD72F}|MvcRadoreOrnek\\MvcRadoreOrnek.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\mvcradoreornek\\mvcradoreornek\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7559263-0998-47CE-947C-1262B5EDD72F}|MvcRadoreOrnek\\MvcRadoreOrnek.csproj|solutionrelative:mvcradoreornek\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7559263-0998-47CE-947C-1262B5EDD72F}|MvcRadoreOrnek\\MvcRadoreOrnek.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\mvcradoreornek\\mvcradoreornek\\models\\kitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7559263-0998-47CE-947C-1262B5EDD72F}|MvcRadoreOrnek\\MvcRadoreOrnek.csproj|solutionrelative:mvcradoreornek\\models\\kitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7559263-0998-47CE-947C-1262B5EDD72F}|MvcRadoreOrnek\\MvcRadoreOrnek.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\mvcradoreornek\\mvcradoreornek\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7559263-0998-47CE-947C-1262B5EDD72F}|MvcRadoreOrnek\\MvcRadoreOrnek.csproj|solutionrelative:mvcradoreornek\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7559263-0998-47CE-947C-1262B5EDD72F}|MvcRadoreOrnek\\MvcRadoreOrnek.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\mvcradoreornek\\mvcradoreornek\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7559263-0998-47CE-947C-1262B5EDD72F}|MvcRadoreOrnek\\MvcRadoreOrnek.csproj|solutionrelative:mvcradoreornek\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7559263-0998-47CE-947C-1262B5EDD72F}|MvcRadoreOrnek\\MvcRadoreOrnek.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\mvcradoreornek\\mvcradoreornek\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7559263-0998-47CE-947C-1262B5EDD72F}|MvcRadoreOrnek\\MvcRadoreOrnek.csproj|solutionrelative:mvcradoreornek\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7559263-0998-47CE-947C-1262B5EDD72F}|MvcRadoreOrnek\\MvcRadoreOrnek.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\mvcradoreornek\\mvcradoreornek\\views\\home\\hakkimizda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7559263-0998-47CE-947C-1262B5EDD72F}|MvcRadoreOrnek\\MvcRadoreOrnek.csproj|solutionrelative:mvcradoreornek\\views\\home\\hakkimizda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7559263-0998-47CE-947C-1262B5EDD72F}|MvcRadoreOrnek\\MvcRadoreOrnek.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\mvcradoreornek\\mvcradoreornek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7559263-0998-47CE-947C-1262B5EDD72F}|MvcRadoreOrnek\\MvcRadoreOrnek.csproj|solutionrelative:mvcradoreornek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7559263-0998-47CE-947C-1262B5EDD72F}|MvcRadoreOrnek\\MvcRadoreOrnek.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\mvcradoreornek\\mvcradoreornek\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A7559263-0998-47CE-947C-1262B5EDD72F}|MvcRadoreOrnek\\MvcRadoreOrnek.csproj|solutionrelative:mvcradoreornek\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7559263-0998-47CE-947C-1262B5EDD72F}|MvcRadoreOrnek\\MvcRadoreOrnek.csproj|c:\\users\\administrator\\desktop\\radorebootcamp\\mvcradoreornek\\mvcradoreornek\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A7559263-0998-47CE-947C-1262B5EDD72F}|MvcRadoreOrnek\\MvcRadoreOrnek.csproj|solutionrelative:mvcradoreornek\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KitapOlustur.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\MvcRadoreOrnek\\MvcRadoreOrnek\\Views\\Kitap\\KitapOlustur.cshtml",
+              "RelativeDocumentMoniker": "MvcRadoreOrnek\\Views\\Kitap\\KitapOlustur.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\MvcRadoreOrnek\\MvcRadoreOrnek\\Views\\Kitap\\KitapOlustur.cshtml",
+              "RelativeToolTip": "MvcRadoreOrnek\\Views\\Kitap\\KitapOlustur.cshtml",
+              "ViewState": "AgIAAAkAAADAyszMzMwXwBEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T08:26:19.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\MvcRadoreOrnek\\MvcRadoreOrnek\\Views\\Kitap\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcRadoreOrnek\\Views\\Kitap\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\MvcRadoreOrnek\\MvcRadoreOrnek\\Views\\Kitap\\Index.cshtml",
+              "RelativeToolTip": "MvcRadoreOrnek\\Views\\Kitap\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T07:59:50.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Kitap.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\MvcRadoreOrnek\\MvcRadoreOrnek\\Models\\Kitap.cs",
+              "RelativeDocumentMoniker": "MvcRadoreOrnek\\Models\\Kitap.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\MvcRadoreOrnek\\MvcRadoreOrnek\\Models\\Kitap.cs",
+              "RelativeToolTip": "MvcRadoreOrnek\\Models\\Kitap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T07:17:56.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\MvcRadoreOrnek\\MvcRadoreOrnek\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MvcRadoreOrnek\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\MvcRadoreOrnek\\MvcRadoreOrnek\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MvcRadoreOrnek\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T07:12:00.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\MvcRadoreOrnek\\MvcRadoreOrnek\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "MvcRadoreOrnek\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\MvcRadoreOrnek\\MvcRadoreOrnek\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "MvcRadoreOrnek\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T07:11:58.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\MvcRadoreOrnek\\MvcRadoreOrnek\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MvcRadoreOrnek\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\MvcRadoreOrnek\\MvcRadoreOrnek\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MvcRadoreOrnek\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABAAAABg/////z8lwB8AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T12:37:23.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KitapController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\MvcRadoreOrnek\\MvcRadoreOrnek\\Controllers\\KitapController.cs",
+              "RelativeDocumentMoniker": "MvcRadoreOrnek\\Controllers\\KitapController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\MvcRadoreOrnek\\MvcRadoreOrnek\\Controllers\\KitapController.cs",
+              "RelativeToolTip": "MvcRadoreOrnek\\Controllers\\KitapController.cs",
+              "ViewState": "AgIAACMAAAAAXWZmZmYNwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T13:10:24.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\MvcRadoreOrnek\\MvcRadoreOrnek\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "MvcRadoreOrnek\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\MvcRadoreOrnek\\MvcRadoreOrnek\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "MvcRadoreOrnek\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T13:07:56.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\MvcRadoreOrnek\\MvcRadoreOrnek\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcRadoreOrnek\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\MvcRadoreOrnek\\MvcRadoreOrnek\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MvcRadoreOrnek\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T12:36:38.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "hakkimizda.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\MvcRadoreOrnek\\MvcRadoreOrnek\\Views\\Home\\hakkimizda.cshtml",
+              "RelativeDocumentMoniker": "MvcRadoreOrnek\\Views\\Home\\hakkimizda.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\MvcRadoreOrnek\\MvcRadoreOrnek\\Views\\Home\\hakkimizda.cshtml",
+              "RelativeToolTip": "MvcRadoreOrnek\\Views\\Home\\hakkimizda.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T13:07:49.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\MvcRadoreOrnek\\MvcRadoreOrnek\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MvcRadoreOrnek\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\MvcRadoreOrnek\\MvcRadoreOrnek\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MvcRadoreOrnek\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABAAAADgzMzMzOwwwBEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T12:34:52.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\MvcRadoreOrnek\\MvcRadoreOrnek\\appsettings.json",
+              "RelativeDocumentMoniker": "MvcRadoreOrnek\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\MvcRadoreOrnek\\MvcRadoreOrnek\\appsettings.json",
+              "RelativeToolTip": "MvcRadoreOrnek\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-17T12:37:33.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\MvcRadoreOrnek\\MvcRadoreOrnek\\Program.cs",
+              "RelativeDocumentMoniker": "MvcRadoreOrnek\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\MvcRadoreOrnek\\MvcRadoreOrnek\\Program.cs",
+              "RelativeToolTip": "MvcRadoreOrnek\\Program.cs",
+              "ViewState": "AgIAAAwAAACAAAAAAEAlwBgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T12:37:49.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\MvcRadoreOrnek\\MvcRadoreOrnek\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "MvcRadoreOrnek\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\RadoreBootcamp\\MvcRadoreOrnek\\MvcRadoreOrnek\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "MvcRadoreOrnek\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-17T12:58:22.778Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
